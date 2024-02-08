@@ -4,4 +4,4 @@ Here are...
  - A title
  - A button
 
-And use the `make`, and then `./gtkapp'. *And* **no more**!
+And use the `make`, and then `./gtkapp`. *And* **no more**!
